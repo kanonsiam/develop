@@ -1,2 +1,2 @@
 # develop
-gulp,jade,stylusの環境
+webpack, pag, stylus, react,の環境
